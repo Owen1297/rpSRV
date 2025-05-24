@@ -1,4 +1,5 @@
 ###MESSAGES###
-///'abby'-+=+-'hey owen, what ya up to?'-+=+-'12:04:53'
+
 
 ###TYPING###
+///'abby'-+=+-False
