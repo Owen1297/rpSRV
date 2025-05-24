@@ -2,4 +2,4 @@
 
 
 ###TYPING###
-///'abby'-+=+-False[[[==]]]///'owen'-+=+-False
+///'abby'-+=+-False[[[==]]]///'owen'-+=+-True
